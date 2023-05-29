@@ -25,3 +25,10 @@ Since May 2023, I am a postdoctoral researcher at the [Max Planck Institute for 
 ### Service
 
 ### Advised Students
+* S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, ETH Zürich, BSc. Thesis, AS’21
+* K. Thommen: Automatically Testing MAX-SMT Solvers, ETH Zürich, BSc. Thesis, AS’21
+* M. Hurmuz: Automatically Generating Java Benchmarks with Known Errors, ETH Zürich, MSc. Thesis, AS’21
+* O. Becker: Automatically Testing SMT Solvers, ETH Zürich, BSc. Thesis, AS’21
+* P. Strebel: Explaining Unsatisfiability Proofs through Examples, ETH Zürich, BSc. Thesis, SS’21 (co-advised with [Dr. Malte Schwerhoff](http://malte.schwerhoff.de/))
+* R. Sherif Abdelbar: Automated Checking of Implicit Assumptions on Textual Data, ETH Zürich, BSc. Thesis, SS’18 (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
+* M. Schumacher: Automated Generation of Data Quality Checks, ETH Zürich, MSc. Thesis, AS’17 (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
