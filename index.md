@@ -16,6 +16,12 @@ Since May 2023, I am a postdoctoral researcher at the [Max Planck Institute for 
 
 ### Publications
 
+* Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers (extended version), A. Bugariu, A. Ter-Gabrielyan, P. Müller, FAC’22
+* Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers, A. Bugariu, A. Ter-Gabrielyan, P. Müller, FM’21
+* Automatically Testing String Solvers, A. Bugariu, P. Müller, ICSE’20
+* Automatically Testing Implementations of Numerical Abstract Domains, A. Bugariu, V. Wüstholz, M. Christakis, P. Müller, ASE’18
+
+
 ### Service
 
 ### Advised Students
