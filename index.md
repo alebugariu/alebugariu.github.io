@@ -23,6 +23,11 @@ Since May 2023, I am a postdoctoral researcher at the [Max Planck Institute for 
 
 
 ### Service
+* ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
+* OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
+PLDI’21 AEC: PC member
+* TOSEM’22 Replicated Computational Results: Reviewer
+* PLDI’19, ECOOP/PLDI’17: Student volunteer
 
 ### Advised Students
 * S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, ETH Zürich, BSc. Thesis, AS’21
