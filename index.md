@@ -22,7 +22,6 @@ My research work focuses on automatically ensuring and increasing the **correctn
 * Automatically Testing String Solvers, A. Bugariu, P. Müller, ICSE’20
 * Automatically Testing Implementations of Numerical Abstract Domains, A. Bugariu, V. Wüstholz, M. Christakis, P. Müller, ASE’18
 
-
 ### Service
 * OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
 PLDI’21 AEC: PC member
@@ -30,11 +29,19 @@ PLDI’21 AEC: PC member
 * ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
+### Teaching
+* Rigorous Software Engineering, ETH Zürich: Co-lecturer (SS'23), Teaching assistant (SS'20)
+* Concepts of Object-Oriented Programming, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
+* Parallel Programming, ETH Zürich: Teaching assistant (SS’19)
+* Research Topics in Software Engineering, ETH Zürich: Teaching assistant (AS’19, AS’17)
+* Software Architecture and Engineering, ETH Zürich: Head teaching assistant (SS'18), Teaching assistant (SS’17)
+* Informatik I, ETH Zürich: Teaching assistant (AS’16)
+
 ### Advised Students
-* S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, ETH Zürich, BSc. Thesis, AS’21
-* K. Thommen: Automatically Testing MAX-SMT Solvers, ETH Zürich, BSc. Thesis, AS’21
-* M. Hurmuz: Automatically Generating Java Benchmarks with Known Errors, ETH Zürich, MSc. Thesis, AS’21
-* O. Becker: Automatically Testing SMT Solvers, ETH Zürich, BSc. Thesis, AS’21
-* P. Strebel: Explaining Unsatisfiability Proofs through Examples, ETH Zürich, BSc. Thesis, SS’21 (co-advised with [Dr. Malte Schwerhoff](http://malte.schwerhoff.de/))
-* R. Sherif Abdelbar: Automated Checking of Implicit Assumptions on Textual Data, ETH Zürich, BSc. Thesis, SS’18 (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
-* M. Schumacher: Automated Generation of Data Quality Checks, ETH Zürich, MSc. Thesis, AS’17 (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
+* S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, BSc. Thesis, ETH Zürich (AS’21)
+* K. Thommen: Automatically Testing MAX-SMT Solvers, BSc. Thesis, ETH Zürich (AS’21)
+* M. Hurmuz: Automatically Generating Java Benchmarks with Known Errors, MSc. Thesis, ETH Zürich (AS’21)
+* O. Becker: Automatically Testing SMT Solvers, BSc. Thesis, ETH Zürich (AS’21)
+* P. Strebel: Explaining Unsatisfiability Proofs through Examples, BSc. Thesis, ETH Zürich (SS’21) (co-advised with [Dr. Malte Schwerhoff](http://malte.schwerhoff.de/)) 
+* R. Sherif Abdelbar: Automated Checking of Implicit Assumptions on Textual Data, BSc. Thesis, ETH Zürich (SS’18) (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
+* M. Schumacher: Automated Generation of Data Quality Checks, MSc. Thesis, ETH Zürich (AS’17) (co-advised with [Dr. Caterina Urban](https://caterinaurban.github.io/))
