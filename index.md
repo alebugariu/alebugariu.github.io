@@ -24,10 +24,10 @@ My research work focuses on automatically ensuring and increasing the **correctn
 
 
 ### Service
-* ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
 PLDI’21 AEC: PC member
 * TOSEM’22 Replicated Computational Results: Reviewer
+* ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
 ### Advised Students
