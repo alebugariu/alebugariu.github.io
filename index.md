@@ -1,7 +1,7 @@
 Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I am also an **external lecturer** at [ETH Zürich](https://ethz.ch/en.html), Switzerland, co-teaching the [Rigourous Software Engineering](https://www.sri.inf.ethz.ch/teaching/rse2023) course.
 
 ### Research Interests
-My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision) and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, deductive verifiers) to distributed systems.
+My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision) and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems.
 
 ### Education
 
@@ -30,12 +30,12 @@ PLDI’21 AEC: PC member
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
 ### Teaching
-* Rigorous Software Engineering, ETH Zürich: Co-lecturer (SS'23), Teaching assistant (SS'20)
-* Concepts of Object-Oriented Programming, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
-* Parallel Programming, ETH Zürich: Teaching assistant (SS’19)
-* Research Topics in Software Engineering, ETH Zürich: Teaching assistant (AS’19, AS’17)
-* Software Architecture and Engineering, ETH Zürich: Head teaching assistant (SS'18), Teaching assistant (SS’17)
-* Informatik I, ETH Zürich: Teaching assistant (AS’16)
+* Rigorous Software Engineering, BSc. course, ETH Zürich: Co-lecturer (SS'23), Teaching assistant (SS'20)
+* Concepts of Object-Oriented Programming, MSc. course, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
+* Parallel Programming, BSc. course, ETH Zürich: Teaching assistant (SS’19)
+* Research Topics in Software Engineering, MSc. seminar, ETH Zürich: Teaching assistant (AS’19, AS’17)
+* Software Architecture and Engineering, BSc. course, ETH Zürich: Head teaching assistant (SS'18), Teaching assistant (SS’17)
+* Informatik I, BSc. course, ETH Zürich: Teaching assistant (AS’16)
 
 ### Advised Students
 * S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, BSc. Thesis, ETH Zürich (AS’21)
