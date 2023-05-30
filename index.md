@@ -18,9 +18,9 @@ My research work focuses on automatically ensuring and increasing the **correctn
 ### Publications
 
 * Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers (extended version), **A. Bugariu**, A. Ter-Gabrielyan, P. Müller, *Formal Aspects of Computing (FAC)*, 2022
-* Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers, A. Bugariu, A. Ter-Gabrielyan, P. Müller, *Formal Methods (FM)*, 2021
-* Automatically Testing String Solvers, A. Bugariu, P. Müller, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE)*, 2020
-* Automatically Testing Implementations of Numerical Abstract Domains, A. Bugariu, V. Wüstholz, M. Christakis, P. Müller, *Automated Software Engineering (ASE)*, 2018
+* Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers, **A. Bugariu**, A. Ter-Gabrielyan, P. Müller, *Formal Methods (FM)*, 2021
+* Automatically Testing String Solvers, **A. Bugariu**, P. Müller, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE)*, 2020
+* Automatically Testing Implementations of Numerical Abstract Domains, **A. Bugariu**, V. Wüstholz, M. Christakis, P. Müller, *Automated Software Engineering (ASE)*, 2018
 
 ### Service
 * OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
