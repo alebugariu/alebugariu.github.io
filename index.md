@@ -6,6 +6,11 @@ My research work focuses on automatically ensuring and increasing the **correctn
 ### Student Projects
 I currently have available the following student projects: 
 
+* [Refactoring-based Benchmarks Generation](assets/pdf/projects/Project Benchmarks.pdf)
+* [Validating MAX-SMT Solvers](assets/pdf/projects/Project MAX-SMT.pdf)
+* [Array-based SMT Encoding for Congestion Control Algorithms](assets/pdf/projects/Project Encoding Congestion Control.pdf)
+* [Model Fuzzing: Testing Probabilistic Model Checkers via Mutation-based Fuzzing](assets/pdf/projects/Project Model Fuzzing.pdf)
+
 ### Education
 
 * PhD in Computer Science: ETH Zürich, Switzerland, 2016 - 2022
