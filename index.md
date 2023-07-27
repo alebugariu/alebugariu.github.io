@@ -3,6 +3,9 @@ Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute 
 ### Research Interests
 My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision) and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems.
 
+### Student Projects
+I currently have available the following student projects: 
+
 ### Education
 
 * PhD in Computer Science: ETH Zürich, Switzerland, 2016 - 2022
