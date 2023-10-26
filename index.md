@@ -25,7 +25,7 @@ I currently have available the following student projects:
 
 ### Publications
 
-* [Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers (extended version)](assets/pdf/papers/BugariuTerGabrielyanMueller22.pdf), **A. Bugariu**, A. Ter-Gabrielyan, P. Müller, *Formal Aspects of Computing (FAC)*, 2022
+* [Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers (extended version)](assets/pdf/papers/BugariuTerGabrielyanMueller23.pdf), **A. Bugariu**, A. Ter-Gabrielyan, P. Müller, *Formal Aspects of Computing (FAC)*, 2023
 * [Identifying Overly Restrictive Matching Patterns in SMT-based Program Verifiers](assets/pdf/papers/BugariuTerGabrielyanMueller21.pdf), **A. Bugariu**, A. Ter-Gabrielyan, P. Müller, *Formal Methods (FM)*, 2021
 * [Automatically Testing String Solvers](assets/pdf/papers/BugariuMueller20.pdf), **A. Bugariu**, P. Müller, *Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE)*, 2020
 * [Automatically Testing Implementations of Numerical Abstract Domains](assets/pdf/papers/BugariuWuestholzChristakisMueller18.pdf), **A. Bugariu**, V. Wüstholz, M. Christakis, P. Müller, *Automated Software Engineering (ASE)*, 2018
