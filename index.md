@@ -4,11 +4,13 @@ Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute 
 My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems and large language models (LLMs) used for education.
 
 ### Student Projects
-I am happy to advise students for their Bachelor or Master theses, practical work projects, or internships. I currently have available the following topics: 
+I am happy to advise students for their Bachelor or Master theses, practical work, or internships. I currently have available the following projects: 
 
 * [Refactoring-based Benchmarks Generation](assets/pdf/projects/Project Benchmarks.pdf)
 * [Validating MAX-SMT Solvers](assets/pdf/projects/Project MAX-SMT.pdf)
 * [Model Fuzzing: Testing Probabilistic Model Checkers via Mutation-based Fuzzing](assets/pdf/projects/Project Model Fuzzing.pdf)
+
+If you have your own idea for a project you would like to work on, which is related to my research interests, please contact me and we will try to find together a suitable topic.
   
 
 ### Education
