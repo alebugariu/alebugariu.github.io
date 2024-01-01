@@ -1,4 +1,4 @@
-Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). I am also an **external lecturer** at [ETH Zürich](https://ethz.ch/en.html), Switzerland, co-teaching the [Rigourous Software Engineering](https://www.sri.inf.ethz.ch/teaching/rse2023) course.
+Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
 
 ### Research Interests
 My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems and large language models (LLMs) used for education.
