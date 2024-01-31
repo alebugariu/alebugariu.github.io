@@ -33,7 +33,7 @@ If you have your own idea for a project you would like to work on, which is rela
 * [Automatically Testing Implementations of Numerical Abstract Domains](assets/pdf/papers/BugariuWuestholzChristakisMueller18.pdf), **A. Bugariu**, V. Wüstholz, M. Christakis, P. Müller, *Automated Software Engineering (ASE)*, 2018
 
 ### Service
-* OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
+* SOAP'24, OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
 PLDI’21 AEC: PC member
 * TOSEM’22 Replicated Computational Results: Reviewer
 * ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
