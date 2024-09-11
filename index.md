@@ -23,7 +23,7 @@ If you have your own idea for a project you would like to work on, which is rela
     - Advisors: [Prof. Dr. Barbara Russo](https://www.inf.unibz.it/~russo/), [Prof. Dr. Peter Liggesmeyer](https://liggesmeyer.de/), MSc. Michael Roth
 * BSc. in Computer and Software Engineering (Major in Software Engineering): Politehnica University of Timisoara, Romania, 2009 - 2013
     - Thesis: Extensions of the phantm Analyzer to support Model Extraction from PHP Web Applications
-    - Advisor: [Prof. Dr. Marius Minea](https://www.cics.umass.edu/people/minea-marius)
+    - Advisor: [Prof. Dr. Marius Minea](https://people.cs.umass.edu/~marius/)
 
 ### Publications
 
