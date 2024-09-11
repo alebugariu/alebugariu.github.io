@@ -48,6 +48,7 @@ PLDI’21 AEC: PC member
 * Informatik I, BSc. course, ETH Zürich: Teaching assistant (AS’16)
 
 ### Advised Students
+* S. Kühne: Automatically Explaining and Localizing Semantic Errors in SMT Solvers, MSc. Thesis, ETH Zürich (AS’24)
 * R. van Doren: Alternative SMT Encodings for Congestion Control Algorithms, Practical Work, ETH Zürich (SS’24)
 * S. Kühne: Automatically Testing Solvers for String and Regular Expressions Constraints, BSc. Thesis, ETH Zürich (AS’21)
 * K. Thommen: Automatically Testing MAX-SMT Solvers, BSc. Thesis, ETH Zürich (AS’21)
