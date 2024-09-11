@@ -35,7 +35,7 @@ If you have your own idea for a project you would like to work on, which is rela
 ### Service
 * SOAP'24, OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
 PLDI’21 AEC: PC member
-* TOSEM’22 Replicated Computational Results: Reviewer
+* STTT'25, TOSEM’22 Replicated Computational Results: Reviewer
 * ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
