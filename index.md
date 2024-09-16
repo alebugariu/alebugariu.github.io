@@ -7,7 +7,6 @@ My research work focuses on automatically ensuring and increasing the **correctn
 I am happy to advise students for their Bachelor or Master theses, practical work, or internships. Some example projects that I currently have available are: 
 
 * [Refactoring-based Benchmarks Generation](assets/pdf/projects/Project Benchmarks.pdf)
-* [Validating MAX-SMT Solvers](assets/pdf/projects/Project MAX-SMT.pdf)
 * [Model Fuzzing: Testing Probabilistic Model Checkers via Mutation-based Fuzzing](assets/pdf/projects/Project Model Fuzzing.pdf)
 
 If the project you would like to work on is not in this list, please contact me and we will try to find together a suitable topic.
