@@ -38,6 +38,12 @@ PLDI’21 AEC: PC member
 * ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
+### Events
+* [Dagstuhl Seminar 25061: Logic and Neural Networks](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25061)
+* [8th Heidelberg Laureate Forum'21](https://www.heidelberg-laureate-forum.org/forum/8th-hlf-2021/)
+* [Virtual Heidelberg Laureate Forum'20](https://www.heidelberg-laureate-forum.org/forum/virtual-hlf-2020/)
+* [Marktoberdorf Summer School'16: Dependable Software Systems Engineering](https://sites.google.com/site/marktoberdorf16/)
+
 ### Teaching
 * Rigorous Software Engineering, BSc. course, ETH Zürich: Invited lecturer (SS'24), Co-lecturer (SS'23), Teaching assistant (SS'20)
 * Concepts of Object-Oriented Programming, MSc. course, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
