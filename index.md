@@ -1,6 +1,6 @@
 ***I am currently searching for a new research/teaching position starting from November 2025.***
 
-Since May 2023, I am a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
+From May 2023 until July 2025, I was a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
 
 ### Research Interests
 My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems and large language models (LLMs).
