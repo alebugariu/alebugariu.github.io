@@ -1,4 +1,4 @@
-***I am currently searching for a new research/teaching position starting from November 2025.***
+***I am currently searching for a new research/teaching position.***
 
 From May 2023 until July 2025, I was a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
 
