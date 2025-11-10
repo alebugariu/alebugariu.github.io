@@ -1,4 +1,4 @@
-***I am currently searching for a new research/teaching position.***
+***I am currently searching for a new research/teaching position or for project-based collaborations.***
 
 From May 2023 until July 2025, I was a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
 
@@ -36,7 +36,7 @@ If the project you would like to work on is not in this list, please contact me 
 ### Service
 * ISSTA'26, ICSE'26, ASE'25, SOAP'24, OOPSLA’24, ICSE’24 AEC, ECOOP’23 ERC, ECOOP’23 AEC, Fuzzing’22 AEC, PLDI’22 AEC, CAV’21 AEC,
 PLDI’21 AEC: PC member
-* STTT'25, TOSEM'24, TOSEM’22 Replicated Computational Results: Reviewer
+* STTT'25, TOSEM'25,'24, TOSEM’22 Replicated Computational Results: Reviewer
 * ETH Zürich Hiring Committee for Computer Science’21: Scientific staff representative
 * PLDI’19, ECOOP/PLDI’17: Student volunteer
 
