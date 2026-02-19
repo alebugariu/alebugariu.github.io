@@ -1,17 +1,10 @@
-***I am currently searching for a new research/teaching position or for project-based collaborations.***
-
-From May 2023 until July 2025, I was a **postdoctoral researcher** at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
+Since March 2026, I am a postdoctoral researcher at the [University of Zürich](https://www.ifi.uzh.ch/), Switzerland, advised by [Prof. Dr. Alberto Bacchelli](https://www.ifi.uzh.ch/en/zest/team/sback.html). Before that, I was a postdoctoral researcher at the [Max Planck Institute for Software Systems (MPI-SWS)](https://www.mpi-sws.org/), Kaiserslautern, Germany, advised by [Prof. Dr. Rupak Majumdar](https://people.mpi-sws.org/~rupak/). 
 
 ### Research Interests
-My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to distributed systems and large language models (LLMs).
+My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to large language models (LLMs).
 
 ### Student Projects
-I am happy to advise students for their Bachelor or Master theses, practical work, or internships. Some example projects that I currently have available are: 
-
-* [Refactoring-based Benchmarks Generation](assets/pdf/projects/Project Benchmarks.pdf)
-* [Model Fuzzing: Testing Probabilistic Model Checkers via Mutation-based Fuzzing](assets/pdf/projects/Project Model Fuzzing.pdf)
-
-If the project you would like to work on is not in this list, please contact me and we will try to find together a suitable topic.
+I am happy to advise students for their Bachelor or Master theses, practical work, or internships. Please contact me and we will define together a suitable project.
   
 
 ### Education
@@ -46,7 +39,7 @@ If the project you would like to work on is not in this list, please contact me 
 * [Marktoberdorf Summer School'16: Dependable Software Systems Engineering](https://sites.google.com/site/marktoberdorf16/)
 
 ### Teaching
-* Rigorous Software Engineering, BSc. course, ETH Zürich: Invited lecturer (SS'24), Co-lecturer (SS'23), Teaching assistant (SS'20)
+* Rigorous Software Engineering, BSc. course, ETH Zürich: Invited lecturer (SS'26, SS'24), Co-lecturer (SS'23), Teaching assistant (SS'20)
 * Concepts of Object-Oriented Programming, MSc. course, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
 * Parallel Programming, BSc. course, ETH Zürich: Teaching assistant (SS’19)
 * Research Topics in Software Engineering, MSc. seminar, ETH Zürich: Teaching assistant (AS’19, AS’17)
