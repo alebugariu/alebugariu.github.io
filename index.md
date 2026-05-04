@@ -39,6 +39,7 @@ I am happy to advise students for their Bachelor or Master theses, practical wor
 * [Marktoberdorf Summer School'16: Dependable Software Systems Engineering](https://sites.google.com/site/marktoberdorf16/)
 
 ### Teaching
+* Effective Software Testing, MSc. course, University of Zürich: Invited lecturer (SS'26)
 * Rigorous Software Engineering, BSc. course, ETH Zürich: Invited lecturer (SS'26, SS'24), Co-lecturer (SS'23), Teaching assistant (SS'20)
 * Concepts of Object-Oriented Programming, MSc. course, ETH Zürich: Head teaching assistant (AS’21, AS’20), Teaching assistant (AS’19, AS’18, AS’17)
 * Parallel Programming, BSc. course, ETH Zürich: Teaching assistant (SS’19)
