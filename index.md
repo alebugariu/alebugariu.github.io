@@ -48,6 +48,7 @@ I am happy to advise students for their Bachelor or Master theses, practical wor
 * Informatik I, BSc. course, ETH Zürich: Teaching assistant (AS’16)
 
 ### Advised Students
+* L. Niedhart: Large Language Model-Guided Complete Test Suite Generation, MSc. Thesis, University of Zürich (AS'26)
 * H. Mehmood: Automatically Checking LLM-Generated Answers, MSc. Thesis, University of Kaiserslautern-Landau (AS'24)
 * S. Kühne: Automatically Explaining and Localizing Semantic Errors in SMT Solvers, MSc. Thesis, ETH Zürich (AS’24)
 * R. van Doren: Alternative SMT Encodings for Congestion Control Algorithms, Practical Work, ETH Zürich (SS’24)
