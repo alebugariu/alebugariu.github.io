@@ -4,7 +4,12 @@ Since March 2026, I am a postdoctoral researcher at the [University of Zürich]
 My research work focuses on automatically ensuring and increasing the **correctness** (i.e., soundness and completeness/precision), **consistency**, and **performance** of various types of software systems, from program analysis tools (such as static analyzers, SMT solvers, and deductive verifiers) to large language models (LLMs).
 
 ### Student Projects
-I am happy to advise students for their Bachelor or Master theses, practical work, or internships. Please contact me and we will define together a suitable project.
+I am happy to advise students for their Bachelor or Master theses, practical work, or internships. 
+
+Currently available projects:
+[Issue2UnitTest: Automatically Generating Unit Tests from Issue Reports](assets/pdf/projects/Issue2UnitTests.pdf)
+
+If you would prefer to work on a different topic, please contact me and we will define together a suitable project.
   
 
 ### Education
