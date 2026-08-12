@@ -7,7 +7,7 @@ My research work focuses on automatically ensuring and increasing the **correctn
 I am happy to advise students for their Bachelor or Master theses, practical work, or internships. 
 
 Currently available projects:
-[Issue2UnitTest: Automatically Generating Unit Tests from Issue Reports](assets/pdf/projects/Issue2UnitTests.pdf)
+[Issue2UnitTest: Automatically Generating Unit Tests from Issue Reports](assets/pdf/projects/Issue2UnitTest.pdf)
 
 If you would prefer to work on a different topic, please contact me and we will define together a suitable project.
   
