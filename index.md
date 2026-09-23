@@ -54,6 +54,8 @@ If you would prefer to work on a different topic, please contact me and we will 
 * Informatik I, BSc. course, ETH Zürich: Teaching assistant (AS’16)
 
 ### Advised Students
+* R. Alhambra: Automatically Ensuring Naming Alignment in LLM-Generated Test Code, BSc. Thesis, ETH Zürich (AS'26)
+* M. Rasolofo: LLM-Guided User Intent Formalization for Real World Python Projects, Internship, University of Zürich (AS'26)
 * L. Niedhart: Large Language Model-Guided Complete Test Suite Generation, MSc. Thesis, University of Zürich (AS'26)
 * H. Mehmood: Automatically Checking LLM-Generated Answers, MSc. Thesis, University of Kaiserslautern-Landau (AS'24)
 * S. Kühne: Automatically Explaining and Localizing Semantic Errors in SMT Solvers, MSc. Thesis, ETH Zürich (AS’24)
